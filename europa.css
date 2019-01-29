@@ -1,0 +1,138 @@
+div.autob{
+	background-image:URL("../Coches/descarga.png");
+	color:#FFD500;
+	position:static;
+	text-align:center;
+	width:100%;
+	float:left;
+	padding-top:30px;
+	padding-bottom:30px;
+	font-style:normal;
+	font-family:Sans-serif;
+	font-size:25px;
+	font-weight:bold;
+}
+div.bmw{
+	position:static;
+	width:50%;
+	float:left;
+}
+figure.bmwfoto{
+	width:45%;
+	float:left;
+	padding-top:25px;
+}
+div.cochesnombre{
+	color:#3287B2;
+	position:static;
+	text-align:center;
+	width:100%;
+	text-align:center;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+}
+div.parrafocoches{
+	color:#FFFFFF;
+	position:static;
+	width:90%;
+	text-align:center;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+	padding-left:2%;
+	padding-bottom:3%;
+}
+div.vw{
+	position:static;
+	width:50%;
+	float:left;
+}
+figure.vwfoto{
+	width:40%;
+	float:left;
+	padding-top:25px;
+	text-align:center;
+}
+div.mercedes911{
+	width:100%;
+	float:left;
+	padding-top:25px;
+}
+
+figure.classefoto{
+	width:40%;
+	float:left;
+	text-align:center;
+}
+figure.foto911{
+	width:40%;
+	float:left;
+	padding-left:4%;
+	text-align:right;
+}
+div.mercedes{
+	position:static;
+	width:50%;
+	float:left;
+}
+div.porsche{
+	position:static;
+	width:50%;
+	float:left;
+}
+div.porsche{
+	position:static;
+	width:50%;
+	float:left;
+}
+div.f40miura{
+	width:100%;
+	float:left;
+	padding-top:25px;
+}
+
+figure.f40foto{
+	width:40%;
+	float:left;
+	text-align:center;
+}
+figure.miurafoto{
+	width:45%;
+	float:left;
+	text-align:center;
+	padding-left:2%;
+	padding-top:25px;
+}
+div.miuraf40{
+	position:static;
+	width:50%;
+	float:left;
+}
+
+div.f1{
+	position:static;
+	width:50%;
+	float:left;
+}
+
+div.f1nombre{
+	color:#3287B2;
+	position:static;
+	text-align:center;
+	width:100%;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+	padding-top:10%; 
+}
+div.parrafof1{
+	color:#FFFFFF;
+	position:static;
+	width:90%;
+	text-align:center;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+	padding-left:2%;
+}

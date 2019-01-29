@@ -1,0 +1,45 @@
+div.usa{
+	background-image:URL("../Coches/usa2.png");
+	color:#000000;
+	position:static;
+	text-align:center;
+	width:100%;
+	float:left;
+	padding-top:30px;
+	padding-bottom:30px;
+	font-style:normal;
+	font-family:Sans-serif;
+	font-size:25px;
+	font-weight:bold;
+}
+div.srt{
+	position:static;
+	width:45%;
+	float:left;
+}
+div.srtnombre{
+	color:#3287B2;
+	position:static;
+	text-align:center;
+	width:100%;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+	padding-top:10%; 
+}
+div.parrafosrt{
+	color:#FFFFFF;
+	position:static;
+	width:100%;
+	text-align:justify;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+	padding-left:2%;
+}
+figure.srtfoto{
+	width:47%;
+	float:left;
+	text-align:center;
+	padding-top:25px;
+}

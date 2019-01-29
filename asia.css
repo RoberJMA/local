@@ -1,0 +1,85 @@
+div.japanflag{
+	background-image:URL("../Coches/japanflag.png");
+	color:#BC002D;
+	position:static;
+	text-align:center;
+	width:100%;
+	float:left;
+	padding-top:30px;
+	padding-bottom:30px;
+	font-style:normal;
+	font-family:Sans-serif;
+	font-size:25px;
+	font-weight:bold;
+}
+figure.hondafoto{
+	width:45%;
+	float:left;
+	padding-top:25px;
+}
+div.honda{
+	position:static;
+	width:45%;
+	float:left;
+}
+div.hondanombre{
+	color:#3287B2;
+	position:static;
+	text-align:center;
+	width:100%;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+	padding-top:10%; 
+}
+div.parrafohonda{
+	color:#FFFFFF;
+	position:static;
+	width:90%;
+	text-align:justify;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+	padding-left:2%;
+}
+div.textomedio{
+	position:static;
+	text-align:center;
+	float:left;
+	width:100%;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:bold;
+	font-size:30px;
+}
+figure.supragtrfoto{
+	width:90%;
+	float:left;
+	padding-top:25px;
+	text-align:center;
+}
+div.supragtr{
+	position:static;
+	width:100%;
+	float:left;
+}
+div.supragtrnombre{
+	color:#3287B2;
+	position:static;
+	float:left;
+	text-align:center;
+	width:100%;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal; 
+}
+div.parrafosupragtr{
+	color:#FFFFFF;
+	position:static;
+	width:90%;
+	text-align:center;
+	font-style:normal;
+	font-family:"Roboto",sans-serif;
+	font-weight:normal;
+	padding-left:5%;
+}
